@@ -6,3 +6,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maki8maki&theme=chartreuse-dark&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+ ![](https://komarev.com/ghpvc/?username=maki8maki&color=green)  
