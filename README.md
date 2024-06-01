@@ -2,8 +2,8 @@
 
 ## Contact
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kinakomochi5250)
-![Static Badge](https://img.shields.io/badge/EMail-maki8maki.tech%40gmail.com-red?link=maki8maki%40gmail.com)
+<a href="https://x.com/kinakomochi5250/"><img src="https://img.shields.io/twitter/follow/kinakomochi5250"></a>
+<a href="mailto:maki8maki.tech@gmail.com"><img src="https://img.shields.io/badge/EMail-maki8maki.tech%40gmail.com-red"></a>
 
 ## Status
 
