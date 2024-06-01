@@ -13,5 +13,5 @@
 ![](https://komarev.com/ghpvc/?username=maki8maki&color=green)
 
 ### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- profile updater begin: zenn -->
+<!-- profile updater end: zenn -->
