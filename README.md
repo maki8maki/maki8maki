@@ -37,4 +37,5 @@
 
 ## Latest Zenn Posts
 <!-- profile updater begin: zenn -->
+- Jun 4 [DockerとVSCodeを用いたZenn執筆環境](https://zenn.dev/kinakomochi5250/articles/zenncli-docker-vscode)
 <!-- profile updater end: zenn -->
