@@ -26,7 +26,7 @@
 
 [![Likes](https://badgen.org/img/zenn/kinakomochi5250/likes?style=plastic)](https://zenn.dev/kinakomochi5250)
 [![Followers](https://badgen.org/img/zenn/kinakomochi5250/followers?style=plastic)](https://zenn.dev/kinakomochi5250)
-[![Articles](https://badgen.org/img/zenn/kinakomochi5250/articles?style=plastic)](https://zenn.dev/kinakomochi5250)
+[![Articles](https://badgen.org/img/zenn/kinakomochi5250/articles?style=plastic)](https://zenn.dev/kinakomochi5250?tab=articles)
 [![Books](https://badgen.org/img/zenn/kinakomochi5250/books?style=plastic)](https://zenn.dev/kinakomochi5250?tab=books)
 [![Scraps](https://badgen.org/img/zenn/kinakomochi5250/scraps?style=plastic)](https://zenn.dev/kinakomochi5250?tab=scraps)
 
