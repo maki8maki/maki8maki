@@ -1,10 +1,5 @@
 # Hi there 👋
 
-## Contact
-
-<a href="https://x.com/kinakomochi5250/"><img src="https://img.shields.io/twitter/follow/kinakomochi5250"></a>
-<a href="mailto:maki8maki.tech@gmail.com"><img src="https://img.shields.io/badge/EMail-maki8maki.tech%40gmail.com-red"></a>
-
 ## Status
 
 ### GitHub
@@ -58,3 +53,8 @@
 <!-- profile updater begin: zenn -->
 - Jun 4 [DockerとVSCodeを用いたZenn執筆環境](https://zenn.dev/kinakomochi5250/articles/zenncli-docker-vscode)
 <!-- profile updater end: zenn -->
+
+## Contact
+
+<a href="https://x.com/kinakomochi5250/"><img src="https://img.shields.io/twitter/follow/kinakomochi5250"></a>
+<a href="mailto:maki8maki.tech@gmail.com"><img src="https://img.shields.io/badge/EMail-maki8maki.tech%40gmail.com-red"></a>
