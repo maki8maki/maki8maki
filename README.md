@@ -51,6 +51,7 @@
 
 ## Latest Zenn Posts
 <!-- profile updater begin: zenn -->
+- Jul 16 [tmuxの使い方](https://zenn.dev/kinakomochi5250/articles/tmux-basic-usage)
 - Jul 1 [LaTeXの使い方](https://zenn.dev/kinakomochi5250/articles/latex-basic-usage)
 - Jun 15 [atcoder-toolsの実行時のエラーと対処法](https://zenn.dev/kinakomochi5250/articles/atcoder-tools-error)
 - Jun 14 [Dockerを利用したローカルのAtCoder環境（C++）](https://zenn.dev/kinakomochi5250/articles/atcoder-cpp-docker)
