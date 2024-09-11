@@ -7,10 +7,10 @@
 <div align="center">
 
  <img alt="github Profile Details" width="98.3%" align=center src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg"/><br/>
- <img alt="github Repositories per Language" width="49%" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg"/>
- <img alt="github Most Commit Language" width="49%" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg"/><br/>
- <img alt="github Stats" width="49%" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/3-stats.svg"/>
- <img alt="github Productive time" width="49%" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg"/><br/>
+ <img alt="github Repositories per Language" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg"/>
+ <img alt="github Most Commit Language" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg"/><br/>
+ <img alt="github Stats" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/3-stats.svg"/>
+ <img alt="github Productive time" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg"/><br/>
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=maki8maki&theme=chartreuse-dark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
