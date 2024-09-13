@@ -51,11 +51,11 @@
 
 ## Latest Zenn Posts
 <!-- profile updater begin: zenn -->
+- Sep 12 [X11 ForwardingによるMacでのGUI表示](https://zenn.dev/kinakomochi5250/articles/x11forwarding-mac)
 - Jul 16 [tmuxの使い方](https://zenn.dev/kinakomochi5250/articles/tmux-basic-usage)
 - Jul 1 [LaTeXの使い方](https://zenn.dev/kinakomochi5250/articles/latex-basic-usage)
 - Jun 15 [atcoder-toolsの実行時のエラーと対処法](https://zenn.dev/kinakomochi5250/articles/atcoder-tools-error)
 - Jun 14 [Dockerを利用したローカルのAtCoder環境（C++）](https://zenn.dev/kinakomochi5250/articles/atcoder-cpp-docker)
-- Jun 4 [DockerとVSCodeを用いたZenn執筆環境](https://zenn.dev/kinakomochi5250/articles/zenncli-docker-vscode)
 <!-- profile updater end: zenn -->
 
 ## Contact
