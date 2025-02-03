@@ -51,11 +51,11 @@
 
 ## Latest Zenn Posts
 <!-- profile updater begin: zenn -->
+- Feb 2 [【Web App】マインスイーパー](https://zenn.dev/kinakomochi5250/articles/web-minesweaper)
 - Oct 6 [【Web App】拡張3目並べ](https://zenn.dev/kinakomochi5250/articles/web-tictactoe)
 - Sep 12 [X11 ForwardingによるMacでのGUI表示](https://zenn.dev/kinakomochi5250/articles/x11forwarding-mac)
 - Jul 16 [tmuxの使い方](https://zenn.dev/kinakomochi5250/articles/tmux-basic-usage)
 - Jul 1 [LaTeXの使い方](https://zenn.dev/kinakomochi5250/articles/latex-basic-usage)
-- Jun 15 [atcoder-toolsの実行時のエラーと対処法](https://zenn.dev/kinakomochi5250/articles/atcoder-tools-error)
 <!-- profile updater end: zenn -->
 
 ## Contact
