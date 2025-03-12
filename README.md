@@ -21,27 +21,27 @@
 
  <!-- Like のバッジ -->
   <a href="https://zenn.dev/kinakomochi5250">
-    <img src="https://zenn.badge.nikaera.com/s/kinakomochi5250/likes?style=plastic" alt="kinakomochi5250 likes" />
+    <img src="https://badgen.org/img/zenn/kinakomochi5250/likes?style=plastic" alt="kinakomochi5250 likes" />
   </a>
 
   <!-- Articles のバッジ -->
   <a href="https://zenn.dev/kinakomochi5250/articles">
-    <img src="https://zenn.badge.nikaera.com/s/kinakomochi5250/articles?style=plastic" alt="kinakomochi5250 articles" />
+    <img src="https://badgen.org/img/zenn/kinakomochi5250/articles?style=plastic" alt="kinakomochi5250 articles" />
   </a>
 
   <!-- Followers のバッジ -->
   <a href="https://zenn.dev/kinakomochi5250/followers">
-    <img src="https://zenn.badge.nikaera.com/s/kinakomochi5250/followers?style=plastic" alt="kinakomochi5250 followers" />
+    <img src="https://badgen.org/img/zenn/kinakomochi5250/followers?style=plastic" alt="kinakomochi5250 followers" />
   </a>
 
   <!-- Books のバッジ -->
   <a href="https://zenn.dev/kinakomochi5250/books">
-    <img src="https://zenn.badge.nikaera.com/s/kinakomochi5250/books?style=plastic" alt="kinakomochi5250 books" />
+    <img src="https://badgen.org/img/zenn/kinakomochi5250/books?style=plastic" alt="kinakomochi5250 books" />
   </a>
 
   <!-- Scraps のバッジ -->
   <a href="https://zenn.dev/kinakomochi5250/scraps">
-    <img src="https://zenn.badge.nikaera.com/s/kinakomochi5250/scraps?style=plastic" alt="kinakomochi5250 scraps" />
+    <img src="https://badgen.org/img/zenn/kinakomochi5250/scraps?style=plastic" alt="kinakomochi5250 scraps" />
   </a>
 
 ### AtCoder
