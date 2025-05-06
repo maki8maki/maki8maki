@@ -24,14 +24,14 @@
     <img src="https://badgen.org/img/zenn/kinakomochi5250/likes?style=plastic" alt="kinakomochi5250 likes" />
   </a>
 
-  <!-- Articles のバッジ -->
-  <a href="https://zenn.dev/kinakomochi5250/articles">
-    <img src="https://badgen.org/img/zenn/kinakomochi5250/articles?style=plastic" alt="kinakomochi5250 articles" />
-  </a>
-
   <!-- Followers のバッジ -->
   <a href="https://zenn.dev/kinakomochi5250/followers">
     <img src="https://badgen.org/img/zenn/kinakomochi5250/followers?style=plastic" alt="kinakomochi5250 followers" />
+  </a>
+
+  <!-- Articles のバッジ -->
+  <a href="https://zenn.dev/kinakomochi5250/articles">
+    <img src="https://badgen.org/img/zenn/kinakomochi5250/articles?style=plastic" alt="kinakomochi5250 articles" />
   </a>
 
   <!-- Books のバッジ -->
