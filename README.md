@@ -51,11 +51,11 @@
 
 ## Latest Zenn Posts
 <!-- profile updater begin: zenn -->
+- Nov 2 [MuJoCoによるロボットシミュレーション例](https://zenn.dev/kinakomochi5250/articles/mujoco-example)
 - Feb 24 [文献管理のすすめ](https://zenn.dev/kinakomochi5250/articles/literature-zotero)
 - Feb 5 [siunitxの使い方](https://zenn.dev/kinakomochi5250/articles/siunitx-basic-usage)
 - Feb 2 [【Web App】マインスイーパー](https://zenn.dev/kinakomochi5250/articles/web-minesweaper)
 - Oct 6 [【Web App】拡張3目並べ](https://zenn.dev/kinakomochi5250/articles/web-tictactoe)
-- Sep 12 [X11 ForwardingによるMacでのGUI表示](https://zenn.dev/kinakomochi5250/articles/x11forwarding-mac)
 <!-- profile updater end: zenn -->
 
 ## Contact
