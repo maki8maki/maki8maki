@@ -11,8 +11,12 @@
  <img alt="github Most Commit Language" width="49%" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg"/><br/>
  <img alt="github Stats" width="49%" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/3-stats.svg"/>
  <img alt="github Productive time" width="49%" src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg"/><br/>
- 
- [![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=maki8maki&theme=chartreuse-dark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
+ <img
+   alt="GitHub Profile Trophy"
+   width="100%"
+   src="https://raw.githubusercontent.com/maki8maki/maki8maki/main/trophy-output/trophy.svg"
+ />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=maki8maki&color=green)
